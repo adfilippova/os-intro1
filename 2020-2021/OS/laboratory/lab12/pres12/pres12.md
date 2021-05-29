@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа №11
+title: Лабораторная работа №12
 author: |
 	Филиппова Анна Дмитриевна inst{1}
 institute: |
